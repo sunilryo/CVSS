@@ -4,6 +4,12 @@ Linus Mobile company which is popular for mobile sales, is safeguarded with a fi
 
 These are base score metrics, temporal score metrics, and environmental score metrics for Linus Mobile firewall vulnerability 
 
+![Basecvss](https://github.com/sunilryo/Images/blob/main/basecvss.png)
 
+![Temporalcvss](https://github.com/sunilryo/Images/blob/main/temporalcvss.png)
+
+![EnvironmentalCVSS](https://github.com/sunilryo/Images/blob/main/Environmental%20cvss.png)
 
 The cvvs score graphs as follows
+
+![CVSSoverall](https://github.com/sunilryo/Images/blob/main/Final%20scores%20cvss.png)
